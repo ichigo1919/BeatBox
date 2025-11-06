@@ -74,12 +74,7 @@ body {
   font-weight: 900;
 }
 
-.btn .label {
-  font-size: 11px;
-  color: #7a8a9a;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
+
 
 .btn:hover {
   border-color: #DA0463;
